@@ -6,6 +6,10 @@ _Practice website developed with React JS_
 
 _Website with React created in practice mode, to improve skills in Fetch Api, Context API, React Hooks, localStorage._
 
+### Links
+
+- Live Site URL: [Netlify](https://task-blog.netlify.app/)
+
 ### Requirements 📋
 
 ```EmailJS - npm install @emailjs/browser --save
